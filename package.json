@@ -28,7 +28,7 @@
   "dependencies": {
     "passport-strategy": "*",
     "q": "^1.5.0",
-    "xml-crypto": "git+https://github.com/Hinaser/xml-crypto.git#patch-for-non-exclusive-c14n",
+    "xml-crypto": "git+https://github.com/VincentNewkirk/xml-crypto.git#patch-for-non-exclusive-c14n",
     "xml-encryption": "^0.11.0",
     "xml2js": "0.4.x",
     "xmlbuilder": "^9.0.4",
